@@ -1,0 +1,24 @@
+{
+  "title": "My first notebook tile",
+  "description": "User guide",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Notebook"
+  ],
+  "document": "",
+  "stack_id": "My_first_notebook_tile_notebook_1609928816737",
+  "de_catalog_id": "My_first_notebook_tile_notebook_1609928816737",
+  "type": "Notebook",
+  "categories": [
+    "Others"
+  ],
+  "tag": [],
+  "has_api": false,
+  "has_dataset": false,
+  "is_certified": true,
+  "has_support": true,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2 minutes"
+}
