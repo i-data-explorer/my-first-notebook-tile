@@ -1,7 +1,7 @@
 {
   "title": "My first notebook tile",
   "description": "User guide",
-  "logo": "_images/dataset.png",
+  "logo": "_images/notebook.png",
   "enabled": true,
   "category_label": [
     "Notebook"
@@ -11,14 +11,14 @@
   "de_catalog_id": "My_first_notebook_tile_notebook_1609928816737",
   "type": "Notebook",
   "categories": [
-    "Others"
+    "tutorial"
   ],
   "tag": [],
   "has_api": false,
   "has_dataset": false,
   "is_certified": true,
   "has_support": true,
-  "git_url": "",
+  "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
   "git_commit": "",
   "installTime": "2 minutes"
 }
