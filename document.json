@@ -1,15 +1,15 @@
 {
   "name": "My first notebook tile",
   "description": "User guide",
-  "logo": "_images/dataset.png",
+  "logo": "_images/notebook.png",
   "has_supporting_content": false,
   "stack_id": "My_first_notebook_tile_notebook_1609928816737",
   "de_catalog_id": "My_first_notebook_tile_notebook_1609928816737",
   "type": "Notebook",
   "Categories": [
-    "Others"
+    "tutorial"
   ],
-  "source_repo": "https://github.ibm.com/dwedge/operator-playground-stackCreator/tree/validation",
+  "source_repo": "https://github.com/i-data-explorer/my-first-notebook.git",
   "cover": "cover.md",
   "use_explorer_dataset": false,
   "use_catalog_dataset": "",
@@ -20,29 +20,16 @@
     "Type": [
       "Notebook"
     ],
-    "Dataset": [
-      ""
-    ],
     "Categories": [
       "Others"
     ],
     "Catalog Id": [
       "My_first_notebook_tile_notebook_1609928816737"
     ],
-    "Contact": [],
-    "Preferred Platform": [
-      "OpenShift / Kubernetes"
-    ],
     "Last updated": [
       "Jan 06 2021"
     ]
   },
-  "commands": [
-    {
-      "description": "",
-      "exec": ""
-    }
-  ],
   "display": [
     {
       "name": "Developer Dashboard",
