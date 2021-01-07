@@ -7,7 +7,7 @@
   "de_catalog_id": "My_first_notebook_notebook_1609928816737",
   "type": "Notebook",
   "Categories": [
-    "tutorial"
+    "Tutorial"
   ],
   "source_repo": "https://github.com/i-data-explorer/my-first-notebook.git",
   "cover": "cover.md",
@@ -21,7 +21,7 @@
       "Notebook"
     ],
     "Categories": [
-      "tutorial"
+      "Tutorial"
     ],
     "Catalog Id": [
       "My_first_notebook_notebook_1609928816737"
