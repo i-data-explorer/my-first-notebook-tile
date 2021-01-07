@@ -1,7 +1,7 @@
 
 # My first notebook
 
-<p>Click the "Deploy Notebook" button above, and Congratulations! You've deployed your first notebook in Data explorer. Follow these instructions to access the deployed notebook</p>
+<p>Click the "Deploy Notebook" button above. You've just deployed your first notebook in Data explorer. Follow these instructions to access the deployed notebook</p>
 
 1. Click "JupyterHub" to access the jupyterhub authentication page.
 
