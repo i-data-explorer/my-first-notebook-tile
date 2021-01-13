@@ -18,6 +18,7 @@
   "has_dataset": false,
   "is_certified": true,
   "has_support": true,
+  "managed_by": "Edge"
   "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
   "git_commit": "",
   "installTime": "2 minutes"
