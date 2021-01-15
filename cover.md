@@ -5,7 +5,7 @@
 
 1. Click "JupyterLab" to access the jupyterhub authentication page.
 
-![jupyterhub](_images/jupyterhub-1.JPG)
+![jupyterhub](_images/jupyterhub-2.JPG)
 
 
 2. Copy the username and password from "Jupyterlab Credentials" at the top right corner, and provide them in the Jupyterhub authentication fields to sign in.
