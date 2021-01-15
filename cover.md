@@ -1,21 +1,21 @@
 
 # My first notebook
 
-<p>Click the "Deploy Notebook" button above. You've just deployed your first notebook in Data explorer. Follow these instructions to access the deployed notebook</p>
+<p>Click the "Deploy Notebook" button above, if you haven't already and follow these instructions to access the deployed notebook</p>
 
-1. Click "JupyterHub" to access the jupyterhub authentication page.
+1. Click "JupyterLab" to access the jupyterhub authentication page.
 
-![jupyterhub](_images/jupyterhub.JPG)
-
-
-2. The Username and password can be copied from "JupyterHub Credentials" at the top right corner.
-
-![loginpage](_images/loginpage-n.JPG)
+![jupyterhub](_images/jupyterhub-1.JPG)
 
 
-3. Provide the username and password to access the Jupyterhub tree, where "My-first-notebook" can be found.
+2. Copy the username and password from "Jupyterlab Credentials" at the top right corner, and provide them in the Jupyterhub authentication fields to sign in.
 
-![notebook](_images/notebook.JPG)
+![loginpage](_images/login-1.JPG)
+
+
+3. Double click "My-first-notebook" python notebook, which is present in the left panel in Jupyterlab to open it.
+
+![notebook](_images/lab-1.JPG)
 
 
 
