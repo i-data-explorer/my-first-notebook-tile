@@ -19,6 +19,8 @@
 
 **Note**: Jupyterlabs can only open files which are UTF-8 encoded. If a file isn't UTF-8 encoded and must be accessed in Jupyterlabs, it can be downloaded and locally converted in your computer, and then uploaded to work with.
 
+An error similar to the one shown below will be displayed, if a non UTF-8 encoded file is opened.
 
+![](_images/utf-8.JPG)
 
 
